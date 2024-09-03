@@ -1,0 +1,72 @@
+Below, I will describe a structured system development project using an Agile methodology. This method is best used in fast-paced environments where the project needs to adapt and change over time. It is particularly beneficial when continuous feedback is required, influenced by key variables.
+
+Description
+I am going to develop a mobile application designed to track a consumer's health and well-being. The functions I plan to include are a step counter, sleep pattern tracking, calorie intake monitoring, and more. These features will provide users with daily statistics, allowing them to set goals and gain insights into their well-being.
+
+Chosen Methodology
+The development will follow an Agile methodology called Scrum, which allows for quick development with continuous delivery and close collaboration among team members. Since the application depends heavily on consumer feedback, it will need constant adjustments based on user input.
+
+
+1. Start of the Project
+We will begin the project by identifying the project manager, development team, consumers interested in health tracking, and potential investors. By holding meetings with these key stakeholders, we can understand their demands and expectations.
+
+To keep things simple, we will maintain a clear vision: to create a mobile application that helps consumers track their daily goals while providing feedback on improving their health. We want the application to be easy to use while also allowing for continuous development. We may launch a beta version of the app's features and build upon it from there. To gather the necessary information, we will conduct focus groups and engage with potential users to understand their needs. Using Agile methodology, we will document different requirements, such as which phones the app will support and how we can enhance security and usability.
+
+We also need to consider the project plan, including the timeline, resources, and budget, while setting clear goals to deliver in each phase through different sprints. For example, in the first sprint, we might focus on sleep data, while in the second sprint, we focus on tracking the number of steps a user takes.
+
+Involving all key stakeholders from the beginning helps us clearly understand what is expected and prevents misunderstandings later in the project. By setting a clear goal, we can establish a common understanding of what needs to be accomplished and focus on the project’s success. Engaging consumers and addressing their needs increases the likelihood of the application’s adoption. The project plan provides a roadmap for the entire development process, ensuring everyone knows the timeline, resources, and goals, thereby minimizing risk and increasing the chances of success.
+
+
+2. Product Backlog
+Here, we will break down the project into smaller user stories. For instance, a user may want to track daily data to see their physical activity development. For this, we will use the MoSCoW method (Must have, Should have, Could have, Won't have) to prioritize incoming information based on various factors like risk, business value, and overall goals. From there, we will define the functionality goals for the application and determine when these goals are met. This approach allows us to continuously develop the app based on different criteria and feedback from users.
+
+The backlog is a list of all the features and improvements needed to complete a successful project. By maintaining an organized backlog, the team can focus on what is most valuable for the application's success. This prioritization helps the team work together to maximize the project's market value. Breaking down user stories provides a clear understanding of where the team's focus should be. Ensuring that definitions are precise minimizes misunderstandings and ensures a high-quality product.
+
+
+3. Sprint Management
+For each sprint planning meeting, the team will prioritize which user stories to focus on, based on the backlog, and determine the objectives for the upcoming sprints. Each user story must have a clear definition of what it means to be "done." It can be helpful to break down these stories into even smaller tasks, such as focusing on the user experience of a particular feature and then testing to validate its functionality. The team must align on when a story is considered finished, based on continuously evaluated documentation.
+
+By using user stories in every sprint, the team can manage a realistic workload, ensuring efficiency and quality. This approach fosters collaboration, which is essential. Breaking stories down into smaller goals makes it clearer what needs to be done, allowing the team to plan their work accordingly. Establishing a "definition of done" ensures that everyone is aligned on when a story is complete, contributing to the project’s overall quality and success.
+
+
+4. Sprints
+To ensure progress, we might hold daily stand-up meetings of about 15 minutes, where team members discuss what they have accomplished, what they are working on, and any obstacles they face. This helps keep the sprint on track and saves time.
+
+We will also conduct regular testing to ensure the code is of high quality and functions as intended. This could involve automated or manual testing to ensure the application meets the defined criteria. Demonstrations for key stakeholders, including team members and developers, will allow for direct feedback. After each demonstration, we will plan the next sprint and set new goals.
+
+Daily Scrum meetings will keep the team synchronized and motivated, enabling quick problem-solving and ensuring successful sprint goals. A well-thought-out design, combined with effective team implementation, ensures that everyone understands the application’s functionality—not just for key investors but also for consumers. This collaborative approach can generate new ideas and structure the development process to ensure the code is clean, testable, and functions as required. This will help create an application that meets consumer expectations and delivers a high level of success. Providing key stakeholders with the opportunity to give feedback during a sprint helps ensure the project meets its goals and expectations, minimizing risk throughout the project lifecycle.
+
+
+5. Sprint Review
+After each sprint, we will review what we have accomplished and discuss whether the stories align with the "definition of done." We will prioritize different features and adjust according to any new demands that may arise. In our meetings, we will reflect on the sprints to identify what is working well, what can be improved, and what is feasible. We will consider whether it is worth our time to continue on the current path or if we should prioritize something else.
+
+By reviewing the sprints, the team can ensure that goals are being met and that everyone remains aligned with the project's objectives. This process also allows the team to make continuous improvements to their working methods and reflect on their performance. If there is anything that can be improved as a team, it will be addressed. The goal of the Agile methodology is to emphasize cooperation and continuously seek improvements.
+
+
+6. Planning the Release
+Here, we will decide when each feature will be released and whether it needs additional sprints or more functions. We might need to adjust the release date, use a different testing group, or involve users in another beta test to get further feedback and identify potential issues before the final release. We may choose to release only the key features initially to allow for further development of the remaining elements.
+
+A well-thought-out release plan will minimize risks that may occur during launch, creating an environment where team members and users can provide timely feedback. Through beta testing, we can ensure the launch is validated and successful before reaching a broader audience. This reduces the risk of significant problems arising after the release. By working closely on functionality, we can make incremental changes, allowing the team to deliver valuable updates while maintaining continuous feedback and constant improvement. This approach spreads out major risks and enables the team to address smaller, more manageable issues.
+
+
+7. End of the Project
+At the end of the project, we will document everything and hand it over to the support team. Documentation is crucial to ensure that all relevant information is available for continued development. This provides key stakeholders with a clear overview of what has been developed. In the future, problems may arise, and previous information might be needed; thus, it is essential to have a well-documented history of the project's development.
+We hand over the project to support because it is vital that the team has completed their work and there is a system in place for continuous development and problem resolution after launch. The team will also conduct a final evaluation to ensure everything is working as intended and to identify areas for future improvement. This process helps avoid past mistakes and prevents future errors.
+
+8. Maintenance and Continuous Growth
+As mentioned earlier, it is crucial to focus on maintenance while also fostering continuous growth. We want the team to quickly identify problems and understand how users interact with the application. This is important for maintaining a high standard for the project while striving to improve as a team. After launch, we can make small adjustments and updates based on user feedback, thanks to the support team working on it. This also allows us to plan for future developments, such as expanding into different cycles or creating new applications based on market needs.
+One of the key benefits of Agile methodology is the focus on continuous improvement, helping the team adapt to changes and refine their working methods to deliver higher quality and better time management.
+
+
+Below is a description of why Agile methodology is better suited than the waterfall method for a project developing a mobile application for health tracking.
+
+The agile methodology is flexible and adjustable, which is ideal when working on a project that requires continuous development of functions. By working in shorter sprints, the team can regularly adjust priorities and develop the application based on user feedback and market changes. These sprints allow for continuous feedback from users and teams, making it easier to identify what is working well and what needs adjustment. The team can provide valuable insights regularly, enabling a quicker launch of a beta version to gather feedback.
+
+Agile methodology also excels in risk management because it allows for the early detection and handling of potential problems. Different user stories can be reprioritized repeatedly based on feedback, market trends, and business needs, offering flexibility and the ability to adapt to changes. The methodology promotes collaboration and frequent meetings, which can enhance team cooperation and adaptability. This approach also provides better opportunities for growth and continuous development.
+
+In contrast, the waterfall method follows a linear approach where each phase must be completed before moving on to the next step. This makes it difficult to handle changes or add new functions without having to go back and redo work that has already been completed, which is both time-consuming and expensive. Feedback is usually gathered only when the project is nearing its end, which means the final product may not meet current user expectations or needs.
+
+With the waterfall method, the entire project is launched or released at once, meaning users must wait until the whole system is developed to access any functionality. This can result in lost time and missed opportunities for early feedback that could come too late to be useful. There is also a higher risk of discovering significant problems late in the project because testing is usually conducted near the end. If this happens, it can lead to substantial rework.
+
+In the waterfall method, all requirements are defined at the beginning of the project. This means that any changes needed later in the project will require considerable time to implement. This approach also enforces that teams work individually in different phases, which can lead to communication errors and a loss of engagement within the team. Additionally, there is no built-in mechanism for continuous improvement and development, which can result in the same mistakes being repeated throughout the project.
+
