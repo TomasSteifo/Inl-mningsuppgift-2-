@@ -70,3 +70,10 @@ With the waterfall method, the entire project is launched or released at once, m
 
 In the waterfall method, all requirements are defined at the beginning of the project. This means that any changes needed later in the project will require considerable time to implement. This approach also enforces that teams work individually in different phases, which can lead to communication errors and a loss of engagement within the team. Additionally, there is no built-in mechanism for continuous improvement and development, which can result in the same mistakes being repeated throughout the project.
 
+Sprint Schedule
+First Sprint: The focus will be on implementing a start screen and enabling users to log into the app. Navigation within the app will also be developed to allow users to move between different screens. A user authentication process, including password reset functionality, will be implemented. Additionally, security measures will be put in place to protect user data.
+
+Second Sprint: Introduce basic features such as step tracking or sleep monitoring for the user. A well-designed user interface (UI) will be created for these features. Simple analysis and recommendations will be provided to users based on their activity or sleep data.
+
+Third Sprint: Allow users to set personal goals and provide them with the option to receive reminders to complete these goals. Incorporate user feedback from the second sprint to enhance existing features and continue building upon them for further development.
+
